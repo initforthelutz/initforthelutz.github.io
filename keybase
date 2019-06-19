@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/maliciousgay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://initforthelutz.xyz
+  * I am maliciousgay (https://keybase.io/maliciousgay) on keybase.
+  * I have a public key ASBIMjBXyjRfi8jtABPG4YAaCDrzMJBWvoHeMKhaFviwtgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012048323057ca345f8bc8ed0013c6e1801a083af3309056be81de30a85a16f8b0b60a",
+      "host": "keybase.io",
+      "kid": "012048323057ca345f8bc8ed0013c6e1801a083af3309056be81de30a85a16f8b0b60a",
+      "uid": "9e964dc4e7c27cb5f5e5c70ad732a919",
+      "username": "maliciousgay"
+    },
+    "merkle_root": {
+      "ctime": 1560972886,
+      "hash": "287925aa0b81a91f667619345432ec13d6c8298db80e60def867af53628712c3e7e487c80568a84d0b62f4f0e163060c10dad51523eca3f54e5d2c98d577bce8",
+      "hash_meta": "9d564f79825786d3a3d6f5fad69cb6462ab41b141ada4cce9d68b99d08bc43bb",
+      "seqno": 5603602
+    },
+    "service": {
+      "entropy": "zb7ep/s7fI+DohFSfIxovLYs",
+      "hostname": "initforthelutz.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1560972898,
+  "expire_in": 504576000,
+  "prev": "e391675f37effb200b8aba54daaa927312949c4206ca73bd933675884a81ba41",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSDIwV8o0X4vI7QATxuGAGgg68zCQVr6B3jCoWhb4sLYKp3BheWxvYWTESpcCC8Qg45FnXzfv+yALirpU2qqScxKUnEIGynO9kzZ1iEqBukHEIDa1oXXFrbDeGLD8r3r3B61lU/wskhiXSdY6KkoQYYs9AgHCo3NpZ8RACAVMSffn5UBIqPI1+0sPZcdz5SpsVdb9YkgsgDexP9XqOVjGJ4lMFm2rFhrqXysc6wKd1YyZ+/ktDUEj0PbwDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPslS5XETxLNV2qSwoLEWf0tXJyQesTMqTc9xs1SK+Pgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maliciousgay
+
+==================================================================
