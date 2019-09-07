@@ -6,47 +6,59 @@ I hereby claim:
 
   * I am an admin of https://initforthelutz.xyz
   * I am maliciousgay (https://keybase.io/maliciousgay) on keybase.
-  * I have a public key ASBIMjBXyjRfi8jtABPG4YAaCDrzMJBWvoHeMKhaFviwtgo
+  * I have a public key with fingerprint 416D 1368 D2DF 3CAB C46F  542D 52D5 A92C 9221 5A74
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "012048323057ca345f8bc8ed0013c6e1801a083af3309056be81de30a85a16f8b0b60a",
+      "eldest_kid": "01013619becd47c107a94028f2e42e99ca074d15db43b7e9e7c278835a008a26ddaf0a",
+      "fingerprint": "416d1368d2df3cabc46f542d52d5a92c92215a74",
       "host": "keybase.io",
-      "kid": "012048323057ca345f8bc8ed0013c6e1801a083af3309056be81de30a85a16f8b0b60a",
+      "key_id": "52d5a92c92215a74",
+      "kid": "01013619becd47c107a94028f2e42e99ca074d15db43b7e9e7c278835a008a26ddaf0a",
       "uid": "9e964dc4e7c27cb5f5e5c70ad732a919",
       "username": "maliciousgay"
     },
-    "merkle_root": {
-      "ctime": 1560972886,
-      "hash": "287925aa0b81a91f667619345432ec13d6c8298db80e60def867af53628712c3e7e487c80568a84d0b62f4f0e163060c10dad51523eca3f54e5d2c98d577bce8",
-      "hash_meta": "9d564f79825786d3a3d6f5fad69cb6462ab41b141ada4cce9d68b99d08bc43bb",
-      "seqno": 5603602
-    },
     "service": {
-      "entropy": "zb7ep/s7fI+DohFSfIxovLYs",
       "hostname": "initforthelutz.xyz",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "4.1.0"
-  },
-  "ctime": 1560972898,
-  "expire_in": 504576000,
-  "prev": "e391675f37effb200b8aba54daaa927312949c4206ca73bd933675884a81ba41",
-  "seqno": 11,
+  "ctime": 1567876930,
+  "expire_in": 157680000,
+  "prev": "be5c1b0c3fbfb16fa353c634ebfa6dfaa32e8ce6114f16f86c36c7681a7caf81",
+  "seqno": 21,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSDIwV8o0X4vI7QATxuGAGgg68zCQVr6B3jCoWhb4sLYKp3BheWxvYWTESpcCC8Qg45FnXzfv+yALirpU2qqScxKUnEIGynO9kzZ1iEqBukHEIDa1oXXFrbDeGLD8r3r3B61lU/wskhiXSdY6KkoQYYs9AgHCo3NpZ8RACAVMSffn5UBIqPI1+0sPZcdz5SpsVdb9YkgsgDexP9XqOVjGJ4lMFm2rFhrqXysc6wKd1YyZ+/ktDUEj0PbwDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPslS5XETxLNV2qSwoLEWf0tXJyQesTMqTc9xs1SK+Pgo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMI3AnicrZJrSBVBFMevZQ9vFFKhPSBy1Sgz2dnH7O6lggojAsmilMi6zc7O6vq4
+e93de1NvktGDIEOjog+FZOmlB2gPKntJSg/JyPJDEBVEDyxFRYPIKG1W6lsfGwaG
+mfP//+acw3kwfaLHG7O5cU/ZluQXIKaz7WzIs93uWR1hVFMrZ3wRpoiMH6RYI7bj
+LzI0xsewgAU8BIpKsCZIGLASUgSWk3WOCBxRFIxYSdCAqKkCr0pEIRLmJFnmRcSy
+MuKgpiGdRUw6oxuBfGIFLSPgUKwAoEa5ssZpOo+RigWoiwKniXQjhcMKxwERSQI1
+Fpi266DJqcgmGYZJ3+jFP57eP/T/Oe/QOE4hChQ0LIzLsCrqIhGxxCJN4jmkAMUV
+2sQKoBJC1SWo2MCGGbLzUTlTmc7QSNjAxG2uW80flREwHN20nAJSHHIqMsrKKygl
+aJmOic1iGi9wnKDtc/1OedA17CKq/w/KrxoBjXaUOsLEsg0zwPgAVWLHcNlAhJIs
+QYVn0xlSFjQs4jdchShBmaXL/YeEKVKlZQCVxbyu6iqAOuJFHkNeIKqOoKYjxHNE
+xgQCIOg0LEPMQ0whAEkY6TJg3OJKAybj4wDNE+VTpm3kB5ATsghT2X4/L9YT4/VM
+njTBHTWPNy7+7wBmeqeMrRG+fU5dkXJmdOwaiZUaEyqWBHfOrh6bdrWhs8fJmj9U
+3VY6uWldd+vyOiH6vrU55RLc2l1ZFf/zmDqzxhM+vTSx9bXwYbDn4s/+RYlFfZUn
+17zsSPbmzTnbfjOUmh1d3t/Qe6v2+5cNe1uIk1S1O3flUG/c2ujJTYvfHS362PWj
+e2D02YiVDU8Vzks7XtqXOuPNtVexSSNfexeih1NWjX06cbB5eO5wYfTceSthy2Fn
+fdMO0HwlJ2Xw3tPIL0bfuOwIrC+5l/MY3umY39S7pD3qyxng2i8cmNrVX3sjum1f
+Zsvw7ZpHuRn1Fxoj5+/W7b9+Oyt86O1lMeV59uFZCyJPGtLO/QaYck4R
+=bjQv
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
